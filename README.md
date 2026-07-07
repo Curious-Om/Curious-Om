@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Curious-Om
-- 👀 I’m interested in Game Developing and Machine Learning ALgorithms
-- 🌱 I’m currently learning Python Machine Learning
+- 👀 I’m a Game developer and Ai engineer.
+- 🌱 I’m currently learning Experimenting and learning ai systems engineering.
 - 💞️ I’m looking to collaborate on any Project which can help me learn more
-- 😄 Pronouns: he/him/Code/slaughter
 
 <!---
 Curious-Om/Curious-Om is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
